@@ -1,1 +1,2 @@
-Isso é uma segunda alteração :)
+Isso é uma segunda alteração. 
+Aqui no Git Hub, postarei todos os projetos que eu fizer em qualquer linguagem de programação. Por enquanto, estou no Python, mas o que será que o futuro na programação e na área de dados me aguarda?? :D
